@@ -3,3 +3,4 @@ Jupyter notebooks helping open source researchers, journalists, and fact-checker
 # Notebook Links
 - holehe - [Link](bellingcat_holehe.ipynb)
 - maigret - [Link](bellingcat_maigret.ipynb)
+- deepface - [Link](bellingcat_deepface.ipynb)
