@@ -6,12 +6,12 @@ If you've used Jupyter notebooks before you should be good to navigate this righ
 
 If Jupyter Notebooks/Google Colaboratory don't ring any bells, you should know they are one of the easiest ways to interact with code and the command line, in essence they look like an interactive website where you execute one cell at a time to run a piece of code, you can also edit the pieces of code to adapt them to your needs. 
 
-There's plenty of good tutorials about Jupyter Notebooks and the environments you can run them in (like Google Colab or Binder.org), we do advise you to spend 5min doing that. Additionally, we created a simple notebook that you can [view](TODO), [run on Google Colab](TODO), or [run on Binder](TODO) that shows the core skills needed to understand what this is all about!
+There's plenty of good tutorials about Jupyter Notebooks and the environments you can run them in (like Google Colab or Binder.org), we do advise you to spend 5min doing that. Additionally, we created a simple notebook that you can [view](TODO), [run on Google Colab](TODO), [run on Binder](TODO), or [run on Kaggle](TODO) that shows the core skills needed to understand what this is all about!
 
 ### Why Notebooks?
 Jupyter Notebooks
 - make it easier to install and run software (less "this does not work on my machine" errors)
-- make it safer to run unknown code, when you run it on a Notebook service like [Google Colaboratory](https://colab.google/) or [Binder](https://mybinder.org/)
+- make it safer to run unknown code, when you run it on a Notebook service like [Google Colaboratory](https://colab.google/), [Binder](https://mybinder.org/), or [Kaggle Notebooks](https://www.kaggle.com/docs/notebooks)
 - make it simpler to document specific code uses: they combine styled documentation with code
 - are quick to make and easy to use after you understand how to click through the code cells and edit any custom input
 - can run bash commands (command line) as well as code (Python and more)
