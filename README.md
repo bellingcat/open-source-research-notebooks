@@ -1,12 +1,12 @@
 # Open Source Research Notebooks
-A collection of Jupyter Notebooks that demo and can be used during investigations to run command line tools, scripts, and methods. We aim to help open source researchers, journalists, and fact-checkers use command line tools and code projects for digital investigations.
+A collection of Jupyter Notebooks that can be to learn or run open source investigations. We cover command line tools, scripts, and methods. We aim to help open source researchers, journalists, and fact-checkers use command line tools and code projects for digital investigations.
 
 ### Is this for me?
 If you've used Jupyter notebooks before you should be good to navigate this right away.
 
-If Jupyter Notebooks/Google Colaboratory don't ring any bells, you should know they are one of the easiest ways to interact with code and the command line, in essence they look like an interactive website where you execute one cell at a time to run a piece of code, you can also edit the pieces of code to adapt them to your needs. 
+If Jupyter Notebooks/Google Colaboratory don't ring any bells, you should know they are one of the easiest ways to interact with code and the command line, in essence they look like an interactive website where you execute one cell at a time to run different pieces of code, you can also edit the code and adapt it to your needs. 
 
-There's plenty of good tutorials about Jupyter Notebooks and the environments you can run them in (like Google Colab or Binder.org), we do advise you to spend 5min doing that. Additionally, we created a simple notebook that you can [view](TODO), [run on Google Colab](TODO), [run on Binder](TODO), or [run on Kaggle](TODO) that shows the core skills needed to understand what this is all about!
+There's plenty of good tutorials about Jupyter Notebooks and the environments you can run them in (like [Google Colab](https://www.youtube.com/watch?v=inN8seMm7UI) or Binder.org), we do advise you to spend 5min doing that. Additionally, we created a simple notebook that you can [view (static)](notebooks/methods/intro-to-notebooks.ipynb), [run on Google Colab](https://colab.research.google.com/github/bellingcat/open-source-research-notebooks/blob/main/notebooks/methods/intro-to-notebooks.ipynb), [run on Binder]([TODO](https://mybinder.org/v2/gh/bellingcat/open-source-research-notebooks/main?labpath=notebooks%2Fmethods%2Fintro-to-notebooks.ipynb)), or [run on Kaggle](https://kaggle.com/kernels/welcome?src=https://github.com/bellingcat/open-source-research-notebooks/blob/main/notebooks/methods/intro-to-notebooks.ipynb) that shows the core skills needed to understand what this is all about!
 
 ### Why Notebooks?
 Jupyter Notebooks
