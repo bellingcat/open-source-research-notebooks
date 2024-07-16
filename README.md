@@ -6,6 +6,8 @@
 
 A collection of Jupyter Notebooks that can be to learn or run open source investigations. We cover command line tools, scripts, and methods. We aim to help open source researchers, journalists, and fact-checkers use command line tools and code projects for digital investigations.
 
+<blockquote align="center">📰 Read <a href="https://www.bellingcat.com/resources/2024/03/06/how-code-notebooks-enable-open-source-research/">our guide to code notebooks here.</a></blockquote>
+
 ### Is this for me?
 If you've used Jupyter notebooks before you should be good to navigate this right away.
 
