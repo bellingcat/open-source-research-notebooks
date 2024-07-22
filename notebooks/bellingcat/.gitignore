@@ -2,3 +2,5 @@
 output
 *.session
 scraped.json
+*.kml
+*.log
